@@ -1,6 +1,6 @@
 # TFC-food
 
-A flowchart about optimal food processing and storage.
+A flowchart about optimal food processing and storage in the Minecraft mod TerraFirmaCraft.
 
 Note that this flowchart is not all inclusive (i.e. different types of alcohol can be made with produce other than sugar).
 
